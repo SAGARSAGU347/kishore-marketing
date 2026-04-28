@@ -6,8 +6,8 @@ const categories = ["Biscuits", "Cakes", "Rusk", "Snacks"];
 
 const productsData: any = {
   Biscuits: [
-    { name: "Good Day", image: "/GoodDay.png" },
-    { name: "Marie Gold", image: "/Marie.png" },
+    { name: "Good Day", image: "/goodday.png" },
+    { name: "Marie Gold", image: "/marie.png" },
   ],
   Cakes: [
     {
